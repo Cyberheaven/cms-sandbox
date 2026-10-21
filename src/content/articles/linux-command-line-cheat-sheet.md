@@ -1,12 +1,22 @@
 ---
-title: "Linux Command-Line Cheat Sheet"
-category: "Cheat Sheets"
+title: Linux Command-Line Cheat Sheet
+category: Cheat Sheets
 date: 2026-07-15
-author: "purpleshonen"
-excerpt: "Linux is one of the most widely used operating systems in the world, and with such a high level of usage, it has essentially become one of the most important tools for any IT professional to have. A lot of Linux’s power resides in the terminal emulator."
-cover: "/media/2026/07/Linux-Command-Line-Cheat-Sheet.png"
-coverAlt: "Linux Command Line Cheat Sheet"
-tags: ["Linux", "Linux Administration", "Linux Cheat Sheet", "Linux CLI", "Linux Command Line", "Linux Commands", "Linux File Permissions", "Linux for Beginners", "Linux Networking", "Linux Terminal"]
+author: purpleshonen
+excerpt: Linux is one of the most widely used operating systems in the world, and with such a high level of usage, it has essentially become one of the most important tools for any IT professional to have. A lot of Linux’s power  Edited by a contributor whose fork is behind.resides in the terminal emulator.
+cover: /media/2026/07/Linux-Command-Line-Cheat-Sheet.png
+coverAlt: Linux Command Line Cheat Sheet
+tags:
+  - Linux
+  - Linux Administration
+  - Linux Cheat Sheet
+  - Linux CLI
+  - Linux Command Line
+  - Linux Commands
+  - Linux File Permissions
+  - Linux for Beginners
+  - Linux Networking
+  - Linux Terminal
 draft: false
 ---
 
