@@ -1,12 +1,22 @@
 ---
-title: "Introduction to Digital Forensics and Incident Response"
-category: "Tutorials"
+title: Introduction to Digital Forensics and Incident Response
+category: Tutorials
 date: 2026-10-04
-author: "akshay-rajhans"
-excerpt: "Digital Forensics and Incident Response (DFIR) is a specialized field of cybersecurity, comprising two different areas. Forensics is the part of the investigation done after an incident has occurred. It involves the collection, preservation, and analysis of digital artifacts. This is done using advanced tools, which we shall discuss in the sections below."
-cover: "/media/2026/10/3d-rendering-blockchain-technology.jpg"
-coverAlt: "Introduction to Digital Forensics and Incident Response"
-tags: ["Cybercrime", "Cybersecurity", "Cybersecurity Fundamentals", "DFIR", "Digital Forensics", "Digital Investigation", "Evidence Collection", "Forensic Analysis", "Incident Handling", "Incident Response"]
+author: akshay-rajhans
+excerpt: Digital Forensics and Incident Response (DFIR) is a specialized field of cybersecurity, comprising two different areas. Forensics is the part of the investigation done after an incident has occurred. It involves the collection,  Auto-merge test.preservation, and analysis of digital artifacts. This is done using advanced tools, which we shall discuss in the sections below.
+cover: /media/2026/10/3d-rendering-blockchain-technology.jpg
+coverAlt: Introduction to Digital Forensics and Incident Response
+tags:
+  - Cybercrime
+  - Cybersecurity
+  - Cybersecurity Fundamentals
+  - DFIR
+  - Digital Forensics
+  - Digital Investigation
+  - Evidence Collection
+  - Forensic Analysis
+  - Incident Handling
+  - Incident Response
 draft: false
 ---
 
