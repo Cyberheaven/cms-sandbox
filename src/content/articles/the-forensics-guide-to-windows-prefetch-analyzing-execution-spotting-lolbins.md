@@ -1,12 +1,22 @@
 ---
-title: "The Forensics Guide to Windows Prefetch: Analyzing Execution & Spotting LOLBins"
-category: "Tutorials"
+title: 'The Forensics Guide to Windows Prefetch: Analyzing Execution & Spotting LOLBins'
+category: Tutorials
 date: 2026-10-10
-author: "akshay-rajhans"
-excerpt: "Prefetch is a digital forensic artifact falling under the on-disk category since it is stored in the Windows file system."
-cover: "/media/2026/09/The-Forensics-Guide-to-Windows-Prefetch-Analyzing-Execution-Spotting-LOLBins.png"
-coverAlt: "The Forensics Guide to Windows Prefetch: Analyzing Execution & Spotting LOLBins"
-tags: ["DFIR", "Digital Forensics", "Execution Artifacts", "Forensic Artifacts", "Incident Response", "LOLBins", "Malware Analysis", "Threat Hunting", "Windows Forensics", "Windows Prefetch"]
+author: akshay-rajhans
+excerpt: Prefetch is a digital forensic artifact falling under the on-disk category since it is stored in the Windows file system. Auto-merge test.
+cover: /media/2026/09/The-Forensics-Guide-to-Windows-Prefetch-Analyzing-Execution-Spotting-LOLBins.png
+coverAlt: 'The Forensics Guide to Windows Prefetch: Analyzing Execution & Spotting LOLBins'
+tags:
+  - DFIR
+  - Digital Forensics
+  - Execution Artifacts
+  - Forensic Artifacts
+  - Incident Response
+  - LOLBins
+  - Malware Analysis
+  - Threat Hunting
+  - Windows Forensics
+  - Windows Prefetch
 draft: false
 ---
 
