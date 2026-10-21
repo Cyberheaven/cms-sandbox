@@ -22,6 +22,7 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      - run: sleep 150 # SANDBOX ONLY: keeps checks pending long enough to test auto-merge
       # Every check runs even if an earlier one failed, so one run lists everything to fix
       - name: Content is safe and survives the CMS editor
         run: node scripts/check-content.mjs
