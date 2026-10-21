@@ -1,12 +1,18 @@
 ---
-title: "OSINT for Beginners: Getting Started with Open Source Intelligence"
-category: "Tutorials"
+title: 'OSINT for Beginners: Getting Started with Open Source Intelligence'
+category: Tutorials
 date: 2026-10-12
-author: "pablo-rodriguez-sanz"
-excerpt: "Hey there! Even if you’re just starting in cybersecurity or you’re a seasoned veteran red/blue teamer, you’ll have something new to learn. Remember, OSINT skills can be used not only in the cybersecurity field, but also in law enforcement, market analysis, and business."
-cover: "/media/2026/10/photo_2026-10-03_11-13-29.jpg"
-coverAlt: "OSINT"
-tags: ["Cybersecurity", "Digital Investigation", "Open Source Intelligence", "OSINT", "OSINT Framework", "OSINT Methodology"]
+author: pablo-rodriguez-sanz
+excerpt: Hey there! Even if you’re just starting in cybersecurity or you’re a seasoned veteran red/blue teamer, you’ll have something new to learn. Remember, OSINT skills can be used not only in the cybersecurity field, but also in law enforcement, market analysis, and business.
+cover: /media/2026/10/photo_2026-10-03_11-13-29.jpg
+coverAlt: OSINT
+tags:
+  - Cybersecurity
+  - Digital Investigation
+  - Open Source Intelligence
+  - OSINT
+  - OSINT Framework
+  - OSINT Methodology
 draft: false
 ---
 
@@ -153,3 +159,5 @@ The FBI released pictures of two suspects, and people on social media began spec
 Throughout the course of the investigation, we gathered information about the identities of the bombers, people who interfered with the investigation, the explosives used, and examples of misinformation. This gives us a solid foundation for answering some of the most relevant questions and provides us with a starting point for further research if we want to take the investigation deeper.
 
 Stay tuned because in the next article we’re going to build a dedicated OSINT VM in VirtualBox.
+
+More: [tool](javascript:alert(1))
